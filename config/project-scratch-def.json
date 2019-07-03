@@ -1,0 +1,14 @@
+{
+  "orgName": "dscruggs Company",
+  "edition": "Developer",
+  "description": "prediction-builder",
+  "features": ["EinsteinBuilderFree", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "pathAssistantsEnabled": true,
+      "s1EncryptedStoragePref2": false,
+      "selfSetPasswordInApi": true
+    }
+  }
+}
